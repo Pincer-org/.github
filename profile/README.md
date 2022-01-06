@@ -1,3 +1,3 @@
 # Pincer
 
-🚀 The snappy asynchronous discord API wrapper written with aiohttp
+🚀 The snappy asynchronous Discord API wrapper written with aiohttp
