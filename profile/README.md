@@ -1,3 +1,3 @@
 # Pincer
 
-An asynchronous python API wrapper meant to replace discord.py
+🚀 The snappy asynchronous discord API wrapper written with aiohttp
