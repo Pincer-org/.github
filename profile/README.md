@@ -7,4 +7,4 @@
 
 ## Thanks for the contributions and the support!
 
-<img src="../assets/contributors.png">
+<img src="contributors.png">
