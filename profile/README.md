@@ -7,4 +7,4 @@
 
 ## Thanks for the contributions and the support!
 
-<img src="contributors.png">
+![Contributors](https://github.com/Pincer-org/.github/blob/master/profile/contributors.png)
